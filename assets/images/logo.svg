@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" fill="none">
+  <!-- Background Shield Shape -->
+  <rect x="0" y="8" width="64" height="64" rx="8" fill="#003D8F"/>
+  <!-- Lightning Bolt Icon -->
+  <path d="M38 20L24 44h10l-4 16 18-24H36l6-16z" fill="#FFD700"/>
+  <!-- S.M.V Text -->
+  <text x="76" y="42" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="34" fill="#003D8F" letter-spacing="1">S.M.V</text>
+  <!-- Enterprises Text -->
+  <text x="76" y="62" font-family="Arial, sans-serif" font-weight="700" font-size="16" fill="#F5A623" letter-spacing="3">ENTERPRISES</text>
+  <!-- Yellow underline accent -->
+  <rect x="76" y="66" width="120" height="3" rx="1.5" fill="#F5A623"/>
+</svg>
